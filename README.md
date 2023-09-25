@@ -8,6 +8,7 @@ A copy of this website: https://thanosjs.org/
 
 ## Amazing code block snippets
 
+
 `` 
   display: block;
   box-sizing: border-box;
@@ -19,9 +20,8 @@ A copy of this website: https://thanosjs.org/
   border: 1px solid #7f797f;
   border-radius: 8px;
   margin-bottom: 16px;
-
+}
 ``
-
 
 `` 
 .container {
