@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    text-align: center;
+    font-family: Inter;
+}
+
+
+h2 {
+    font-weight: 500px;
+    font-size: 24px;
+}
+
+h1 {
+
+    font-size: 80px;
+}
+
+.header {
+    margin-top: 104px;
+}
+
+.THANOS {
+    background-color: rgb(124, 0, 196);
+    font-weight: bolder;
+    letter-spacing: -6.7px;
+    padding: 0 16px;
+}
+
+
+.JS {
+    border-top: 8px solid rgb(173, 33, 255);
+    border-bottom: 8px solid rgb(173, 33, 255);
+    color: rgb(173, 33, 255);
+    font-weight: bold;
+}
