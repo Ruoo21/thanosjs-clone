@@ -59,3 +59,8 @@ code {
   max-width: 600px;
   margin: auto;
 }
+
+img {
+    height: 104px;
+    padding-top: 200px;
+}
