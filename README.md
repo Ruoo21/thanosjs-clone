@@ -33,3 +33,5 @@ A copy of this website: https://thanosjs.org/
   margin: auto;
 }
 ``
+
+### I recommend using Dark Reader
